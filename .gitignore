@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda / virtual env
+.env
+.venv
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Data files (usually not pushed)
+data/
+*.csv
+*.tsv
+
+# Model outputs
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# data
+data/
+
+# models
+*.pkl
+
+# outputs
+outputs/
+results/
+experiment/
+Assignments/
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# system
+.DS_Store
